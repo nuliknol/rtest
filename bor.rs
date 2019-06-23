@@ -1,5 +1,6 @@
 use std::fmt;
-
+// adding a comment
+// and one more
 fn main() {
 
 	#[derive(Debug,Copy,Clone)]
